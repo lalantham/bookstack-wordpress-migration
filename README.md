@@ -2,6 +2,8 @@
 
 A Python tool to migrate pages from BookStack to WordPress with AI-powered content reformatting and featured image generation.
 
+![Image](screenshot.png)
+
 ## Features
 
 - Fetch pages from BookStack API
