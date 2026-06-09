@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=WordPress Migration
 Comment=Migrate BookStack pages to WordPress
-Exec=python3 /home/lalantha/Documents/MyLab/Developer/wordpress-migration/bookstack-wordpress-migration/gui.py
+Exec=python3 python3 /path/to/bookstack-wordpress-migration/gui.py
 Icon=utilities-terminal
 Type=Application
 Categories=Development;
